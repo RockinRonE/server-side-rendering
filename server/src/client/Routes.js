@@ -10,6 +10,6 @@ export default [
   },
   {
     path: '/users',
-    components: UsersList
+    component: UsersList
   }
 ]
